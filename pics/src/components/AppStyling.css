@@ -1,0 +1,29 @@
+
+
+
+.main {
+height: 1500px;
+background-position: center center;
+background-repeat: no-repeat; 
+background-attachment: fixed;
+background-size: cover;
+}
+
+.searchIt {
+    width: 80px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+   
+}
+
+.field {
+    font-size: 25px;
+    border-radius: 5;
+    border-color: rgb(28, 17, 17) ;
+    border-style: double;
+    background-color: black;
+}
+
+
+
